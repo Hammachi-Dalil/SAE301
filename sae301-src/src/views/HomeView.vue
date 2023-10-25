@@ -50,7 +50,7 @@ import { RouterLink } from 'vue-router'
 }
 
 .round-button:hover {
-  background-color: #FFD700; /* Couleur de fond au survol */
+  background-color: #FFE2AA; /* Couleur de fond au survol */
 }
 
 </style>
