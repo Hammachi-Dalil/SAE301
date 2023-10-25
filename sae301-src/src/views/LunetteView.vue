@@ -2,5 +2,5 @@
 </script>
 
 <template>
-    <p>bonjour</p>
+    <p>page information sur la lunette</p>
 </template>

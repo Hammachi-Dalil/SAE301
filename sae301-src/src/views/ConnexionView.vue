@@ -5,7 +5,7 @@ import PocketBase from "pocketbase";
 
 <template>
     <div class="wrapper" id="signOut">
-      <div><SignIn msg="Enter votre email pour vous connecter" /></div>
+      <div><SignIn msg="Rejoignez TaVue" class="Title" /></div>
       <label>Adresse mail: </label><br />
       <input
         type="email"
@@ -17,7 +17,7 @@ import PocketBase from "pocketbase";
       <input type="password" required id="passwd" /><br />
       <button v-on:click="register()">S'inscrire</button>
       <button v-on:click="login()">Se connecter</button>
-      <button v-on:click="googlelogin()">Se connecter avec Google</button>
+
       <button v-on:click="loginGithub()">Se connecter avec Github</button>
       <p><label id="status"> Vous n'etes pas connectez </label><br /></p>
     </div>
@@ -97,4 +97,11 @@ export default {
 },
 };
 </script>
+
+<style scoped>
+.Title{
+  font-family: 'GFS Didot', serif;
+  font-weight: bold;
+}
+</style>
 
