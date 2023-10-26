@@ -1,0 +1,3 @@
+Voici les information pour se connecter au pocketbase :
+Email : dalil.hammachi@edu.univ-fcomte.fr
+Mot de Passe : SAE301Dalil

@@ -82,7 +82,8 @@ const deconnect = () => {
                     <div style="text-align: right; margin-right: 10vh;">
                         <RouterLink to="/" button class="nav-btn">Accueil</RouterLink>
                         <RouterLink to="/LunetteView" button class="nav-btn">Lunettes</RouterLink>
-                        <RouterLink to="/ConnexionView" button class="nav-btn">Connexion</RouterLink>
+                        <RouterLink to="/PersonnaliserView" button class="nav-btn">Personnaliser</RouterLink>
+                        <RouterLink to="/ConnexionView" button class="nav-btn">Inscription</RouterLink>
                     </div> 
                     <div class="ml-auto" style="padding-left: 5px;">
       <span v-if="isConnected" style="justify-content: flex-end;">
@@ -111,7 +112,7 @@ const deconnect = () => {
   margin-right: 7vh;
   text-decoration: none;
   color: black;
-  font-size: xx-large;
+  font-size: large;
   font-family: 'GFS Didot', serif;
 }
 
