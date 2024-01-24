@@ -1,3 +1,13 @@
 Voici les information pour se connecter au pocketbase :
 Email : dalil.hammachi@edu.univ-fcomte.fr
 Mot de Passe : SAE301Dalil
+
+Voici les information d'un utilisateur de la collection users pour se connecter sur le site: 
+email : prof@gmail.com
+Nom d'utilisateur : Professeur
+ProfesseurSAE
+
+Pour voir mon site publié sur le vps : 
+http://193.168.146.198/
+avec nom de domaine personnalisé :
+http://tavue.dalil-hammachi.fr
